@@ -101,6 +101,7 @@ Project structure:
 Your Web Image is Ready .
 
 **Now Create Nginx Image**
+
 - Create nignx.conf
 - ```
     upstream loadbalancer {
